@@ -1,4 +1,4 @@
-# data-analutics-journey
+# data-analytics-journey
 Изучение аналитики данных
 Планируется использование:
 + Puthon
